@@ -6,12 +6,13 @@ A curated list of software and resources to create music.
 ## Audio Workstations
 
 - [Ableton]
+- [Ardour]
 - [Cubase]
 - [Garage Band]
 - [Logic Pro X]
 - [Pro Tools]
 - [Reaper] - Complete digital audio production application for Windows and OS X.
-- [Ardour]
+
 
 
 [Ableton]: https://ableton.com/live
