@@ -14,19 +14,35 @@ A curated list of software and resources to create music.
 - [Reaper] - Complete digital audio production application for Windows and OS X.
 
 [Ableton]: https://ableton.com/live
+[Ardour]: https://ardour.org
 [Cubase]: http://steinberg.net/en/products/cubase
 [Garage Band]: https://apple.com/mac/garageband
 [Logic Pro X]: https://apple.com/logic-pro
 [Pro Tools]: http://avid.com/products/pro-tools-software
 [Reaper]: http://reaper.fm
-[Ardour]: https://ardour.org  
+
 
 ## Hardware
 
+### Synthesizers
+
 - [Organelle] - Intuitive controls with a powerful and flexible sound engine.
+- [OP-1] - A powerful portable music workstation, with sampler, multi-track support, and onboard synth generation
+- [Pocket Operators] - Tiny, low-cost digital instruments
+- [LittleBits Synth Kit] - Snap-together modular synthesizer built in partnership with KORG
 
 [Organelle]: https://critterandguitari.com/products/organelle
+[OP-1]: https://www.teenageengineering.com/products/op-1
+[Pocket Operators]: https://www.teenageengineering.com/products/po
+[LittleBits Synth Kit]: https://shop.littlebits.cc/products/synth-kit
 
+### MIDI Controllers
+
+- [ROLI Blocks] - Portable snap-together MIDI controller with both desktop and mobile interfaces
+- [MPK Mini mkII] - Cheap, functional, excellent starter controller
+
+[ROLI Blocks]: https://roli.com/products/blocks/
+[MPK Mini mkII]: http://www.akaipro.com/products/keyboard-controllers/mpk-mini-mkii
 
 ## Software Libraries
 
@@ -55,7 +71,6 @@ A curated list of software and resources to create music.
 [Tonal]: https://github.com/danigb/tonal
 [Tone.js]: https://github.com/Tonejs/Tone.js
 [Tuna]: https://github.com/Theodeus/tuna
-
 
 ## Knowledge
 
