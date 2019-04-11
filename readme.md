@@ -7,6 +7,7 @@ A curated list of software and resources to create music.
 
 - [Ableton]
 - [Ardour]
+- [Bitwig]
 - [Cubase]
 - [Garage Band]
 - [Logic Pro X]
@@ -15,6 +16,7 @@ A curated list of software and resources to create music.
 
 [Ableton]: https://ableton.com/live
 [Ardour]: https://ardour.org
+[Bitwig]: https://www.bitwig.com/
 [Cubase]: http://steinberg.net/en/products/cubase
 [Garage Band]: https://apple.com/mac/garageband
 [Logic Pro X]: https://apple.com/logic-pro
