@@ -37,6 +37,7 @@ A curated list of software and resources to create music.
     built in partnership with KORG.
 - [Zynthian] - Open hardware swiss army knife of synthesis,
     equipped with multiple engines, filters and effects.
+- [NSynth Super] - Open sourced AI synth from the Google Magenta team.
 
 [dadamachines]: https://dadamachines.com
 [Organelle]: https://critterandguitari.com/products/organelle
@@ -44,6 +45,7 @@ A curated list of software and resources to create music.
 [Pocket Operators]: https://www.teenageengineering.com/products/po
 [LittleBits Synth Kit]: https://shop.littlebits.cc/products/synth-kit
 [Zynthian]: http://zynthian.org
+[NSynth Super]: https://nsynthsuper.withgoogle.com/
 
 
 ### MIDI Controllers
