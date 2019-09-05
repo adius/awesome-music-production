@@ -270,7 +270,6 @@ A curated list of software and resources to create music.
 [Chordata]: https://github.com/starenka/chordata
 [Fretboard]: https://github.com/AlexMost/fretboard
 [UkeGeeks]: https://github.com/buzcarter/UkeGeeks
-[UkuleleSongbook]: https://github.com/casertap/UkuleleSongbook
 [Ukutabs]: https://ukutabs.com
 
 
