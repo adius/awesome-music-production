@@ -121,6 +121,7 @@ A curated list of software and resources to create music.
 - [Overtone] - Open Source toolkit for designing synthesizers
     and collaborating with music.
 - [Pedalboard.js] - JavaScript framework to develop audio effects for guitars.
+- [PitchFinder] & [Node PitchFinder] - Javascript (and node c++ addon) with pitch detection algorithms
 - [React Music] - Create beats with [React].
 - [Sharp11] - Music theorization and improvisation engine.
 - [Slang] - Simple audio programming language implemented in JavaScript.
@@ -153,10 +154,12 @@ A curated list of software and resources to create music.
 [meSing.js]: https://github.com/usdivad/mesing
 [Microm]: https://github.com/zzarcon/microm
 [Music Suite]: http://music-suite.github.io
+[Node PitchFinder]: https://github.com/cristovao-trevisan/node-pitchfinder
 [Node Speaker]: https://github.com/TooTallNate/node-speaker
 [Octavian]: https://github.com/stevekinney/octavian
 [Overtone]: https://github.com/overtone/overtone
 [Pedalboard.js]: https://github.com/dashersw/pedalboard.js
+[PitchFinder]: https://github.com/peterkhayes/pitchfinder
 [React Music]: https://github.com/FormidableLabs/react-music
 [React]: https://reactjs.org/
 [Sharp11]: https://github.com/jsrmath/sharp11
