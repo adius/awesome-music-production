@@ -1,24 +1,46 @@
 # Awesome Music Production
 
-A curated list of software and resources to create music.
+A curated list of software, hardware, and other resources to create music.
 
+<!-- toc -->
 
-## Audio Workstations
+- [Software](#software)
+  - [Audio Workstations](#audio-workstations)
+  - [Libraries](#libraries)
+  - [Apps](#apps)
+  - [Webapps](#webapps)
+  - [Guitar](#guitar)
+- [Hardware](#hardware)
+  - [Synthesizers](#synthesizers)
+  - [MIDI Controllers](#midi-controllers)
+  - [Instruments](#instruments)
+- [Knowledge](#knowledge)
+  - [Misc](#misc)
+  - [Articles](#articles)
+  - [Research](#research)
+
+<!-- tocstop -->
+
+## Software
+
+### Audio Workstations
 
 - [Ableton]
 - [Ardour]
 - [Bitwig]
 - [Cubase]
 - [Garage Band]
+- [Giada] - Minimal audio tool for DJs, live performers and musicians.
 - [Logic Pro X]
 - [Pro Tools]
-- [Reaper] - Complete digital audio production application for Windows and OS X.
+- [Reaper] - Complete digital audio production app for Windows and macOS.
 
 [Ableton]: https://ableton.com/live
 [Ardour]: https://ardour.org
 [Bitwig]: https://www.bitwig.com/
 [Cubase]: http://steinberg.net/en/products/cubase
 [Garage Band]: https://apple.com/mac/garageband
+[Giada]: https://www.giadamusic.com
 [Logic Pro X]: https://apple.com/logic-pro
 [Pro Tools]: http://avid.com/products/pro-tools-software
 [Reaper]: http://reaper.fm
@@ -175,23 +197,34 @@ A curated list of software and resources to create music.
 [Vivid]: https://vivid-synth.com
 
 
-## Apps
+### Synthesizers
+
+- [Amsynth] - Synthesizer with a classic subtractive synthesizer topology.
+- [Surge Synthesizer] - Open source digital synthesizer.
+
+[Amsynth]: https://amsynth.github.io
+[Surge Synthesizer]:  https://surge-synthesizer.github.io
+
+
+### Apps
 
 - [Auxy] - Modern instruments for mobile creators.
 - [Composer's Sketchpad] - Sequencer that combines musical staff paper
     with an artist's sketchbook (iOS only).
+- [Melodics] - Desktop app to teach playing MIDI keyboards, pads, and e-drums.
 - [SeekMIDI] - Graphical multi channel MIDI sequencer.
 - [Seq24] - Minimal loop based midi sequencer.
 - [SFZ Designer] - Visual sample mapping tool to create SFZ files.
 
 [Auxy]: http://auxy.co
 [Composer's Sketchpad]: http://composerssketchpad.com
+[Melodics]: https://melodics.com
 [SeekMIDI]: https://oldtechaa.github.io/SeekMIDI/
 [Seq24]: http://filter24.org/seq24/
 [SFZ Designer]: http://mildon.me/sfzdesigner
 
 
-## Webapps
+### Webapps
 
 - [108] - Minimal beat machine.
 - [AI Duet] - A smart piano that responds to you.
@@ -260,7 +293,18 @@ A curated list of software and resources to create music.
 [QuasiMusic]: http://www.gregegan.net/APPLETS/34/34.html
 
 
-## Guitar
+### Virtual Reality
+
+- [Electronauts] - DJ simulation with 8 digital instruments.
+- [Lyra VR] - Room scale music creation app.
+- [Paradiddle] - Virtual reality drum kit.
+
+[Electronauts]: https://survios.com/electronauts/
+[Lyra VR]: https://lyravr.com
+[Paradiddle]: http://paradiddleapp.com
+
+
+### Guitar
 
 - [Chordata] - A dummy chordbook for mandolin, ukulele and guitar.
 - [Fretboard]
@@ -276,7 +320,94 @@ A curated list of software and resources to create music.
 [Ukutabs]: https://ukutabs.com
 
 
+## Hardware
+
+### Synthesizers
+
+- [dadamachines] - Toolkit to create automated analog sounds.
+- [Modal 002R] - 8 or 12 voice digital/analogue hybrid 3U rack.
+- [Organelle] - Intuitive controls with a powerful and flexible sound engine.
+- [OP-1] - A powerful portable music workstation.
+    with sampler, multi-track support, and onboard synth generation.
+- [Pocket Operators] - Tiny, low-cost digital instruments.
+- [LittleBits Synth Kit] - Snap-together modular synthesizer
+    built in partnership with KORG.
+- [ZynAddSubFX] - Polyphonic fully featured musical software synthesizer.
+- [Zynthian] - Open hardware swiss army knife of synthesis,
+    equipped with multiple engines, filters and effects.
+
+[dadamachines]: https://dadamachines.com
+[Modal 002R]: https://www.modalelectronics.com/modal-002r
+[Organelle]: https://critterandguitari.com/products/organelle
+[OP-1]: https://www.teenageengineering.com/products/op-1
+[Pocket Operators]: https://www.teenageengineering.com/products/po
+[LittleBits Synth Kit]: https://shop.littlebits.cc/products/synth-kit
+[ZynAddSubFX]: https://github.com/zynaddsubfx/zynaddsubfx
+[Zynthian]: http://zynthian.org
+
+
+### MIDI Controllers
+
+- [Artiphon] - Guitar like MPE controller.
+- [Bela] - Computing platform for creating responsive interactive applications.
+- [C-Thru Music Axis] - Hexagonal and harmonic table based controller.
+- [Continuum Fingerboard] - Linear piano like MPE playing surface.
+- [Dodeka Stellar] - Linear and isomorphic MIDI keyboard.
+- [dualo du-touch] - Accordion like controller with hexagonal pads.
+- [Eigenharp] - Grid, breath pipe, and touch strip enabled MPE instrument.
+- [Joué] - Expressive and modular MPE controller.
+- [LinnStrument] - Grid based expressive [MPE] controller.
+- [Mimu Gloves] - Expressive wearable musical instrument.
+- [Morph] - Expressive MPE touch controller with swappable hardware interfaces.
+- [MPK Mini mkII] - Cheap, functional, excellent starter controller.
+- [Neova] - Expressive finger ring.
+- [Open Woodwind Project] - Electronic aerophone.
+- [OpenDeck] - Hardware platform to build custom MIDI controllers.
+- [Poly Expressive] - Foot controller.
+- [QuNexus] - Small and portable MPE keyboard.
+- [ROLI Blocks] - Portable snap-together MIDI controller
+    with both desktop and mobile interfaces.
+
+[Artiphon]: https://artiphon.com
+[Bela]: https://bela.io
+[C-Thru Music Axis]: http://c-thru-music.com
+[Continuum Fingerboard]: https://www.hakenaudio.com/continuum-fingerboard
+[Dodeka Stellar]: https://www.dodekamusic.com/stellar/
+[dualo du-touch]: https://dualo.org
+[Eigenharp]: http://www.eigenlabs.com/info/
+[Joué]: https://www.play-joue.com/en/
+[LinnStrument]: http://www.rogerlinndesign.com/linnstrument.html
+[Mimu Gloves]: https://mimugloves.com
+[Morph]: https://sensel.com/pages/the-sensel-morph
+[MPK Mini mkII]:
+    http://www.akaipro.com/products/keyboard-controllers/mpk-mini-mkii
+[MPE]: https://roli.com/mpe
+[Neova]: https://www.enhancia.co
+[Open Woodwind Project]: https://hackaday.io/project/2992-the-open-woodwind-project
+[OpenDeck]: https://shanteacontrols.com
+[Poly Expressive]: https://www.polyeffects.com/pages/expressive
+[QuNexus]: https://www.keithmcmillen.com/products/qunexus/
+[ROLI Blocks]: https://roli.com/products/blocks/
+
+
+### Instruments
+
+- [Harpejji] - Electric stringed musical instrument.
+- [Karlax] - Multi sensor expressive Clarinette like instrument.
+- [Keytam] - Tunable guitar-tambourine hybrid.
+- [Musical Instrument Challenge][inst-challenge] - List of DIY instruments.
+- [OTTO] - Sampler, sequencer, multi-engine synth and effects in a box.
+
+[Harpejji]: https://www.marcodi.com/collections/standard-series
+[inst-challenge]: https://hackaday.io/submissions/prize2018_instrument/list
+[Karlax]: http://www.dafact.com
+[Keytam]: https://www.keytam-drum.com
+[OTTO]: https://github.com/topisani/OTTO
+
+
 ## Knowledge
+
+### Misc
 
 - [Digital Filters Introduction] - Jupyter notebooks
     and a geometric interpretation of digital audio filters.
@@ -289,7 +420,7 @@ A curated list of software and resources to create music.
 [youtube.com/i_0DXxNeaQ0]: http://youtube.com/watch?v=i_0DXxNeaQ0
 
 
-## Articles
+### Articles
 
 - [Detecting piano notes with web audio][detect-notes]
 - [DeepAudioClassification] - Finding the genre of a song with deep learning.
@@ -314,13 +445,16 @@ A curated list of software and resources to create music.
     https://becominghuman.ai/visual-music-machine-learning-workshop-for-kids-a90c957dab33
 
 
-## Research
+### Research
 
 - [Harmony Explained] - Progress towards a scientific theory of music.
 - [Musical User Interfaces] - Rethink how audio software is designed.
 - [Universal Music Translation Network]
+- [Virtual Reality Musical Instruments:
+    State of the Art, Design Principles, and Future Directions][VR Instruments]
 
 [Harmony Explained]: https://arxiv.org/abs/1202.4212v2
 [Musical User Interfaces]: https://arthurcarabott.com/mui/
 [Universal Music Translation Network]:
     https://research.fb.com/facebook-researchers-use-ai-to-turn-whistles-into-orchestral-music-and-power-other-musical-translations/
+[VR Instruments]: https://www.mitpressjournals.org/doi/pdf/10.1162/COMJ_a_00372
