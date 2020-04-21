@@ -41,6 +41,7 @@ A curated list of software, hardware, and other resources to create music.
 - [Pro Tools]
 - [Reaper] - Complete digital audio production app for Windows and macOS.
 - [Rytmik Studio] - Music creation software.
+- [Zrythm] - Cross-platform DAW.
 
 [Ableton]: https://ableton.com/live
 [Ardour]: https://ardour.org
@@ -53,6 +54,7 @@ A curated list of software, hardware, and other resources to create music.
 [Pro Tools]: http://avid.com/products/pro-tools-software
 [Reaper]: http://reaper.fm
 [Rytmik Studio]: https://store.steampowered.com/app/657280/Rytmik_Studio/
+[Zrythm]: https://www.zrythm.org
 
 
 ### Libraries
