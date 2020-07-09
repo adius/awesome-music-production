@@ -87,6 +87,7 @@ A curated list of software, hardware, and other resources to create music.
 - [PitchFinder] & [Node PitchFinder] - Javascript (and node c++ addon) with pitch detection algorithms
 - [React Music] - Create beats with [React].
 - [Repitch] - Real-time polyphonic MIDI-controlled audio pitch shifting.
+- [Scribbletune] - Create music with JavaScript.
 - [Sharp11] - Music theorization and improvisation engine.
 - [Slang] - Simple audio programming language implemented in JavaScript.
 - [Spleeter] - Source separation library (e.g. extract drums from a track).
@@ -129,6 +130,7 @@ A curated list of software, hardware, and other resources to create music.
 [React Music]: https://github.com/FormidableLabs/react-music
 [Repitch]: https://github.com/maxwellpollack/repitch
 [React]: https://reactjs.org/
+[Scribbletune]: https://github.com/scribbletune/scribbletune
 [Sharp11]: https://github.com/jsrmath/sharp11
 [Slang]: http://slang.kylestetz.com
 [Spleeter]: https://github.com/deezer/spleeter
