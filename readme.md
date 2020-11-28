@@ -248,6 +248,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [Chords] - Text based chord progression editor.
 - [Circle of 5ths Explorer]
 - [Djenerator] - A metal breakdown generator.
+- [Frequency Explorer] - A microtonal additive synthesizer + sequencer
 - [Funklet] - Drum machine and library of famous drum patterns.
 - [Jamwithchrome] - Play music live with your friends online.
 - [Keithwhor.com/music] - Musical Keyboard - JS Dynamic Audio Synth.
@@ -289,6 +290,7 @@ Check it out at [leomask.com](https://leomask.com)
 [Circle of 5ths Explorer]:
     https://frazierpianostudio.com/resources/circle-of-fifths-explorer/
 [Djenerator]: http://djen.co
+[Frequency Explorer]: https://maxis.cool/frex
 [Funklet]: http://funklet.com
 [Jamwithchrome]: http://jamwithchrome.com
 [Keithwhor.com/music]: http://keithwhor.com/music
