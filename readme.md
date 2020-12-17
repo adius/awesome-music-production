@@ -70,6 +70,7 @@ Check it out at [leomask.com](https://leomask.com)
 ### Libraries
 
 - [Alda] - A music programming language for musicians.
+- [Aldax](https://github.com/haricane8133/aldax) - A chord syntax parser for [Alda](https://github.com/alda-lang/alda)
 - [ATM CLI] - Command line tool for generating and working with MIDI files.
 - [Aubio] - Segmentation, pitch detection, tapping the beat
     and producing midi streams.
